@@ -1,0 +1,190 @@
+/java-tutorial-notes/
+
+├── 1. 💻 java-fundamentals-and-core-concepts/
+│   ├── 01-introduction/
+│   │   ├── intro-java.md
+│   │   ├── first-code.md
+│   │   ├── how-java-works.md
+│   │   ├── jdk-jre-jvm.md
+│   ├── 02-naming-conventions.md
+│   ├── 03-variables-data-literals.md
+│   ├── 04-type-conversion-operators.md
+│   ├── 05-wrapper-class.md
+│   ├── 06-if-else-ternary.md
+│   ├── 07-switch-statement.md
+│   ├── 08-loops-theory.md
+│   ├── 09-while-do-while-loops.md
+│   └── 10-for-loop.md
+│
+├── 2. 💡 object-oriented-programming-(oop)/
+│   ├── 01-classes-objects.md
+│   ├── 02-methods-overloading.md
+│   ├── 03-memory-this.md
+│   ├── 04-constructors.md
+│   ├── 05-encapsulation.md
+│   ├── 06-inheritance-basics.md
+│   ├── 07-multiple-inheritance.md
+│   ├── 08-this-super-methods.md
+│   ├── 09-method-overriding.md
+│   ├── 10-polymorphism-dmd.md
+│   ├── 11-abstract-classes.md
+│   ├── 12-inner-classes.md
+│   ├── 13-interfaces.md
+│   ├── 14-final-keyword.md
+│   ├── 15-object-class-methods.md
+│   ├── 16-casting.md
+│   └── 17-packages-access-modifiers.md
+│
+├── 3. 🛠️ data-structures-strings-utility/
+│   ├── 01-arrays-basics.md
+│   ├── 02-multi-dimensional-arrays.md
+│   ├── 03-array-of-objects.md
+│   ├── 04-string-theory.md
+│   ├── 05-string-buffer-builder.md
+│   └── 06-static-elements.md
+│
+├── 4. 🔗 collections-exceptions-concurrency/
+│   ├── 01-collection-api.md
+│   ├── 02-arraylist.md
+│   ├── 03-set.md
+│   ├── 04-map.md
+│   ├── 05-comparator-comparable.md
+│   ├── 06-exception-theory-handling.md
+│   ├── 07-exception-hierarchy-custom.md
+│   ├── 08-throws-try-resources.md
+│   ├── 09-user-input.md
+│   ├── 10-threads-basics.md
+│   ├── 11-thread-properties-states.md
+│   ├── 12-race-condition.md
+│   ├── 13-functional-lambda.md
+│   ├── 14-annotations-enums.md
+│   ├── 15-stream-api-basics.md
+│   ├── 16-stream-operations.md
+│   ├── 17-parallel-stream.md
+│   ├── 18-optional-class.md
+│   └── 19-method-constructor-reference.md
+│
+├── 5. 🗄️ persistence-and-orm/
+│   ├── 01-jdbc-intro-setup.md
+│   ├── 02-jdbc-steps-crud.md
+│   ├── 03-prepared-statement.md
+│   ├── 04-hibernate-intro-setup.md
+│   ├── 05-hibernate-crud-operations.md
+│   ├── 06-hibernate-naming-embeddable.md
+│   ├── 07-hibernate-mapping-theory.md
+│   ├── 08-hibernate-mapping-types.md
+│   ├── 09-hibernate-fetching.md
+│   ├── 10-hibernate-caching.md
+│   ├── 11-hibernate-hql.md
+│   └── 12-hibernate-get-vs-load.md
+│
+├── 6. ⚙️ spring-core-and-boot/
+│   ├── 01-spring-intro-ioc-di.md
+│   ├── 02-autowiring.md
+│   ├── 03-spring-bean-xml-config.md
+│   ├── 04-bean-creation-scopes.md
+│   ├── 05-dependency-injection.md
+│   ├── 06-advanced-xml-config.md
+│   ├── 07-java-config-annotations.md
+│   ├── 08-stereotype-annotations.md
+│   ├── 09-springboot-basics.md
+│   └── 10-springboot-layers.md
+│
+├── 7. 🌐 spring-web-mvc-rest/
+│   ├── 01-web-app-basics.md
+│   ├── 02-spring-mvc-intro.md
+│   ├── 03-dispatcher-view-resolver.md
+│   ├── 04-controller-mapping.md
+│   ├── 05-data-to-controller.md
+│   ├── 06-view-data-model.md
+│   ├── 07-model-attribute.md
+│   ├── 08-thymeleaf.md
+│   ├── 09-rest-basics.md
+│   ├── 10-rest-controller.md
+│   ├── 11-rest-data-handling.md
+│   └── 12-content-negotiation.md
+│
+├── 8. 💾 spring-data/
+│   ├── 01-spring-jdbc-intro.md
+│   ├── 02-jdbc-template-repo.md
+│   ├── 03-spring-jdbc-postgres.md
+│   ├── 04-spring-data-jpa-intro.md
+│   ├── 05-jpa-crud-operations.md
+│   ├── 06-jpql-search.md
+│   └── 07-spring-data-rest.md
+│
+├── 9. 🔒 spring-advanced-security/
+│   ├── 01-spring-aop-intro.md
+│   ├── 02-aop-advices.md
+│   ├── 03-aop-around-advice.md
+│   ├── 04-security-encryption-basics.md
+│   ├── 05-spring-security-default.md
+│   ├── 06-csrf-handling.md
+│   ├── 07-custom-user-details.md
+│   ├── 08-bcrypt-user-reg.md
+│   ├── 09-cors.md
+│   ├── 10-jwt-basics.md
+│   ├── 11-jwt-generation-validation.md
+│   └── 12-oauth2.md
+│
+├── 10. 🚀 devops-and-cloud/
+│   ├── 01-maven-intro-ide.md
+│   ├── 02-maven-dependencies.md
+│   ├── 03-docker-intro-architecture.md
+│   ├── 04-docker-commands-jdk.md
+│   ├── 05-docker-spring-boot.md
+│   ├── 06-dockerfile-postgres.md
+│   ├── 07-docker-compose-volumes.md
+│   ├── 08-cloud-aws-intro.md
+│   ├── 09-aws-elastic-beanstalk.md
+│   ├── 10-aws-rds.md
+│   ├── 11-aws-ecs-basics.md
+│   └── 12-aws-ecs-docker-ecr.md
+│
+├── 11. 🧠 microservices/
+│   ├── 01-microservices-theory.md
+│   ├── 02-question-quiz-services.md
+│   ├── 03-service-discovery-registry.md
+│   ├── 04-feign-load-balancing.md
+│   └── 05-api-gateway.md
+│
+├── 12. 🤖 spring-ai/
+│   ├── 01-spring-ai-intro.md
+│   ├── 02-chat-client-ollama.md
+│   ├── 03-prompt-template.md
+│   ├── 04-embeddings-basics.md
+│   ├── 05-cosine-similarity.md
+│   ├── 06-vector-database-intro.md
+│   ├── 07-pg-vector-store.md
+│   ├── 08-redis-vector-store.md
+│   ├── 09-rag-implementation.md
+│   ├── 10-multimodal-image.md
+│   ├── 11-multimodal-audio-stt.md
+│   ├── 12-multimodal-audio-tts.md
+│   ├── 13-structured-output-converters.md
+│   ├── 14-project-app-ai-image.md
+│   ├── 15-project-app-chatbot.md
+│   └── 16-project-app-vector-store.md
+│
+├── 13. 🌳 version-control-(git)/
+│   ├── 01-git-intro-init.md
+│   ├── 02-git-commit-diff-remove.md
+│   ├── 03-github-remote-tag.md
+│   ├── 04-git-clone.md
+│   ├── 05-git-branching.md
+│   ├── 06-git-merge-rebase-conflict.md
+│   ├── 07-git-time-travel-stash.md
+│   └── 08-git-fork-pull-request.md
+│
+└── 14. 📈 data-structures-and-algorithms-(dsa)/
+    ├── 01-dsa-fundamentals.md
+    ├── 02-big-o-recursion.md
+    ├── 03-divide-and-conquer.md
+    ├── 04-search-linear-binary.md
+    ├── 05-bubble-selection-sort.md
+    ├── 06-insertion-quick-sort.md
+    ├── 07-merge-sort.md
+    ├── 08-linked-list.md
+    ├── 09-stack.md
+    ├── 10-queue-circular-queue.md
+    └── 11-tree-intro-bst.md
