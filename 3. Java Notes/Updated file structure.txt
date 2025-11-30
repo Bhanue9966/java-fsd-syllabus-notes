@@ -56,13 +56,14 @@
 │   ├── 10-threads-basics.md
 │   ├── 11-thread-properties-states.md
 │   ├── 12-race-condition.md
-│   ├── 13-functional-lambda.md
-│   ├── 14-annotations-enums.md
-│   ├── 15-stream-api-basics.md
-│   ├── 16-stream-operations.md
-│   ├── 17-parallel-stream.md
-│   ├── 18-optional-class.md
-│   └── 19-method-constructor-reference.md
+│   ├── 13-functional programming.md
+│   ├── 14-lambda expressions.md
+│   ├── 15-annotations-enums.md
+│   ├── 16-stream-api-basics.md
+│   ├── 17-stream-operations.md
+│   ├── 18-parallel-stream.md
+│   ├── 19-optional-class.md
+│   └── 20-method-constructor-reference.md
 │
 ├── 5. 🗄️ persistence-and-orm/
 │   ├── 01-jdbc-intro-setup.md
