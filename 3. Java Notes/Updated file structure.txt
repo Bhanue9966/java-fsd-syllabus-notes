@@ -106,13 +106,16 @@
 │   └── 12-content-negotiation.md
 │
 ├── 8. 💾 spring-data/
-│   ├── 01-spring-jdbc-intro.md
-│   ├── 02-jdbc-template-repo.md
-│   ├── 03-spring-jdbc-postgres.md
-│   ├── 04-spring-data-jpa-intro.md
-│   ├── 05-jpa-crud-operations.md
-│   ├── 06-jpql-search.md
-│   └── 07-spring-data-rest.md
+│   ├── 01-spring-jdbc-intro.md
+│   ├── 02-jdbc-template-repo.md
+│   ├── 03-spring-jdbc-postgres.md
+│   ├── 04-spring-data-jpa-intro.md
+│   ├── 05-jpa-crud-operations.md
+│   ├── 06-jpql-search.md
+│   ├── 07-spring-data-rest.md
+│   ├── 08-jpa-in-job-app.md
+│   ├── 09-react-integration-search.md
+│   └── 10-react-integration-crud.md
 │
 ├── 9. 🔒 spring-advanced-security/
 │   ├── 01-spring-aop-intro.md
